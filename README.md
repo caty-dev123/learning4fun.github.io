@@ -1,2 +1,6 @@
-# learning4fun.github.io
-- This is a website for learning.
+# Learning4Fun Changelog
+
+# v1.0
+- Created the website
+
+
